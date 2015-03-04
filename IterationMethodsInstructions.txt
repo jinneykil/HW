@@ -1,0 +1,10 @@
+To implement Jacobi, Gauss Seidel, and SOR methods:
+
+Save files:
+	IterationMethods.m
+	Jacobi.m
+	GaussSeidel.m
+	SOR.m
+Use IterationMethods.m as template and input necessary information (A, b, x0, tol, w)
+
+Run program to implement the three iterative methods. 
